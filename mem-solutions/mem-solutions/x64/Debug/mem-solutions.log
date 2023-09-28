@@ -1,0 +1,22 @@
+﻿  dllmain.cpp
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\main\aim.h(58,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\gui.h(47,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\menu.h(25,101): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\menu.h(39,106): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\menu.h(43,99): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\menu.h(71,77): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\menu.h(71,72): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\menu.h(71,67): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(5,114): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(6,117): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(12,44): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(12,38): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(13,46): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(14,42): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(15,47): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(15,41): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(15,35): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(60,89): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yurlu\Desktop\mem-solutions\mem-solutions\gui\esp.h(69,89): warning C4305: аргумент: усечение из "double" в "float"
+dllmain.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_GetModuleHandleW в функции "unsigned __int64 __cdecl GetModBase(wchar_t const *)" (?GetModBase@@YA_KPEB_W@Z).
+C:\Users\yurlu\Desktop\mem-solutions\x64\Debug\mem-solutions.dll : fatal error LNK1120: неразрешенных внешних элементов: 1
